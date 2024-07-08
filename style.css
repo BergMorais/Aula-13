@@ -1,0 +1,11 @@
+.container-fot {
+  display: flex;
+  justify-content: center;
+  margin: 15px;
+
+}
+
+.container-log {
+  gap:5px ;
+}
+
